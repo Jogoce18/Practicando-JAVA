@@ -1,4 +1,4 @@
-package org.example.exercicio1;
+package org.example.exercicio1.basic;
 /*
  * Escreva um programa que peça ao usuário para inserir seu nome e depois imprima uma saudação com o nome fornecido.
  * Autor: Johana

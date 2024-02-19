@@ -1,3 +1,5 @@
+package org.example.exercicio1.basic;
+
 import java.util.Scanner;
 
 /*

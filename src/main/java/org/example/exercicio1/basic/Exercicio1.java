@@ -1,4 +1,4 @@
-package org.example.exercicio1;
+package org.example.exercicio1.basic;
 /*
  * Este programa imprime "Hello, World!" na tela.
   * Autor: Johana
