@@ -57,3 +57,7 @@ k
 ;src/main/java/org/example/exercicio1/basic/Exercicio24.java,7/4/74c7dda1676244876d01c8292c9d7ab1cfd152c0
 k
 ;src/main/java/org/example/exercicio1/basic/Exercicio26.java,9/4/94184ddbfdf5790a0e1e07f41e021ffd89054fbc
+k
+;src/main/java/org/example/exercicio1/basic/poo/Program.java,a/b/ab78b9ab24d5d4592f3857f15af7b934cc55fa33
+k
+;src/main/java/org/example/exercicio1/basic/poo/Account.java,2/f/2fc95571f5fb882082bbb44193892f9632f55056

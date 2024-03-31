@@ -1,10 +1,12 @@
-package org.example.exercicio1.basic;
+package org.example.exercicio1.basic.exercios;
 
 import java.util.Scanner;
 
 /*
 Leia quatro valores inteiros A, B, C e D. A seguir, calcule e mostre a diferença do produto de A e B pelo produto de C e D segundo a fórmula: DIFERENCA = (A * B - C * D).
+ Autor: Johana
  */
+
 public class Exercicio17 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);

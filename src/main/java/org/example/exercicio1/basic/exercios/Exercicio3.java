@@ -1,4 +1,4 @@
-package org.example.exercicio1.basic;
+package org.example.exercicio1.basic.exercios;
 
 /*
  * Escreva um programa que peça ao usuário para inserir dois números inteiros e depois imprima a soma desses números.

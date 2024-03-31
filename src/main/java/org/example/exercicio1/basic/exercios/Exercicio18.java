@@ -1,4 +1,4 @@
-package org.example.exercicio1.basic;
+package org.example.exercicio1.basic.exercios;
 
 import java.util.Scanner;
 
@@ -10,6 +10,7 @@ O arquivo de entrada contém 2 números inteiros e 1 número com duas casas deci
 
 Saída
 Imprima o número e o salário do funcionário, conforme exemplo fornecido, com um espaço em branco antes e depois da igualdade. No caso do salário, também deve haver um espaço em branco após o $.
+ Autor: johana
  */
 public class Exercicio18 {
     public static void main(String[] args) {

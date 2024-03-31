@@ -1,10 +1,11 @@
-package org.example.exercicio1.basic;
+package org.example.exercicio1.basic.exercios;
 
 import java.util.Locale;
 import java.util.Scanner;
 
 /*
 Faça um programa que leia o nome de um vendedor, o seu salário fixo e o total de vendas efetuadas por ele no mês (em dinheiro). Sabendo que este vendedor ganha 15% de comissão sobre suas vendas efetuadas, informar o total a receber no final do mês, com duas casas decimais.
+Autor: Johana
  */
 public class Exercicio19 {
     public static void main(String[] args) {
