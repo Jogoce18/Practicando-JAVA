@@ -79,3 +79,9 @@ Lsrc/main/java/org/example/exercicio1/basic/exerciciosbasicos/Exercicio8.java,a
 Lsrc/main/java/org/example/exercicio1/basic/exerciciosbasicos/Exercicio9.java,4/f/4f191d250703d709c27f0a419fab493306ca6286
 
 Qsrc/main/java/org/example/exercicio1/basic/exercicioslistas/ExerciciosListas.java,0/b/0b56923c7b46f7094d192c23cacc1e38501ec9f8
+m
+=src/main/java/org/example/exercicio1/basic/vetores/Teste.java,2/f/2f1ba23e9e4f075c051b51e82ee6e193ae9084c0
+n
+>src/main/java/org/example/exercicio1/basic/vetores/Teste1.java,d/6/d6df3ae44c01f8dc2ac426511b05d338e527fde7
+m
+=src/main/java/org/example/exercicio1/basic/vetores/Vetor.java,3/0/30018a3f31dff08218aa9f1cfe0eb8cfe6ed5139
