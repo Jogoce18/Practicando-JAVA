@@ -85,3 +85,9 @@ m
 =src/main/java/org/example/exercicio1/basic/vetores/Teste.java,2/f/2f1ba23e9e4f075c051b51e82ee6e193ae9084c0
 n
 >src/main/java/org/example/exercicio1/basic/vetores/Teste1.java,d/6/d6df3ae44c01f8dc2ac426511b05d338e527fde7
+n
+>src/main/java/org/example/exercicio1/basic/vetores/Teste4.java,4/1/41529bbb12d2d6254e5ff94eec7a60f064a5db03
+n
+>src/main/java/org/example/exercicio1/basic/vetores/Teste2.java,3/e/3ef3c8f2518655682743b8110c7f8ad6822af6e0
+n
+>src/main/java/org/example/exercicio1/basic/vetores/Teste3.java,f/5/f5450b843da932dae1d95d1bd45418bc09dea4fd
