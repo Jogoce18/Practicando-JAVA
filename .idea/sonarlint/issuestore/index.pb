@@ -95,3 +95,5 @@ n
 >src/main/java/org/example/exercicio1/basic/vetores/Teste5.java,f/c/fc0e64646d8223a552534e9c7ded2e20f9c84ec6
 n
 >src/main/java/org/example/exercicio1/basic/vetores/Teste6.java,5/0/506c2583530194e736901120062c053dab51bc56
+n
+>src/main/java/org/example/exercicio1/basic/vetores/Teste7.java,3/4/3441780e3cb3789aa8b9bdb440db47e87bdd1d94
